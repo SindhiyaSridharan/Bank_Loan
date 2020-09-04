@@ -1,3 +1,13 @@
+*Note*
+
+Please "reload" the file in case of any error. The file is of 10.6 MB and the loading process takes time.
+
+The link provided below reads the same file in nb viewer (If the reloading problem still persists, please go for the link below)
+
+https://nbviewer.jupyter.org/github/SindhiyaSridharan/Bank_Loan/blob/master/Loan_Prediction.ipynb
+
+If indentations and tabulations appear collided, please use the given link for neater presentation of the same file.
+
 # Bank_Loan
 
 
@@ -26,3 +36,6 @@ campaign?
 the bank?
 ● Online: Does the customer use internet banking facilities?
 ● Credit card: Does the customer use a credit card issued by the bank?
+
+Objective:
+The classification goal is to predict the likelihood of a liability customer buying personal loans.
